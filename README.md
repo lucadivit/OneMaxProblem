@@ -1,5 +1,5 @@
 # OneMaxProblem
-This simple script is an example of genetic algorithm application
+This simple script is an example of genetic algorithm application to One Max Problem.
 
 ## Requirements
 You have to install deap framework:
